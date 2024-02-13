@@ -35,7 +35,7 @@ namespaceOverride: ""
 annotations: {}
 
 # -- Deploy CRDs used by Logging Operator.
-createCustomResource: false
+createCustomResource: true
 
 http:
   # -- HTTP listen port number.
