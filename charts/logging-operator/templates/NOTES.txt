@@ -1,0 +1,1 @@
+We were having a CRD installation issue with "logging.banzaicloud.io_loggings.yaml" so we have moved it outside the chart and installing it externally.

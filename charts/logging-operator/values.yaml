@@ -113,9 +113,6 @@ affinity: {}
 # -- Define which Nodes the Pods are scheduled on.
 podLabels: {}
 
-# Just for "logging.banzaicloud.io_loggings.yaml" because we are getting error installing it.
-installCRD: false
-
 # -- Logging resources configuration.
 logging:
 
